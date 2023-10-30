@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.size-body{
+    width: 80%;
+    margin: 0 auto;
+}
+.color-red{
+    color: red;
+    
+}
+.text-align{
+    text-align: center;
+}
+.decoration-line{
+    text-decoration: line-through;
+}
+.p-inline{
+    display: inline;
+}
+.border{
+    border: 1px solid rgb(234, 234, 234);
+}
+.m-20{
+    margin-bottom: 0;
+}
+.p-20{
+    padding-top: 50px;
+}
+.p-20-bot{
+    padding-bottom: 30px;
+}
+.p-40-bot{
+    padding-bottom: 40px;
+}
+/* classi flex*/
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    
+}
+.dimension-photo{
+    height: 550px;    
+}
